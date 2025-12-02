@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オンナは変わる",
+  "base_artist": "ゲスの極み乙女",
+  "createdAt": "2025-12-02T06:52:25.320975Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オンナは変わる",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_オンナは変わる_ゲスの極み乙女。.txt"
+    }
+  ]
+}
